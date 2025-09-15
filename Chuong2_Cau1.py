@@ -1,3 +1,9 @@
+#Câu 1: Tính chu vi diện tích Hình tròn
+'''
+Yêu cầu:
+Nhập bán kính đường tròn r. Tính và xuất chu vi, diện tích đường tròn tương ứng.
+HD: cv=2*π*r và dt=π*r*r
+'''
 import math
 try:
  r=float(input("Mời bạn nhập bán kính hình tròn:"))
